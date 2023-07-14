@@ -25,7 +25,7 @@ if (isset($_SESSION['autenticado']) && $_SESSION['autenticado'] === true) {
         <h1 class="display-4">Bem-Vindo a FisioVital!</h1>
         <p class="lead text-muted mb-0">Aqui você irá encontrar os melhores serviços para fisioterapia.</p>
         <p class="lead text-muted"><a href="sobre.php" class="text-muted"> 
-          <u>Veja mais sobre nossos serviços aqui</u></a>
+          <u>Veja mais sobre nós aqui</u></a>
         </p>
       </div>
       <div class="col-lg-6 d-none d-lg-block"><img src="./imagens/img_index.png" alt="" class="img-fluid"></div>
@@ -39,21 +39,21 @@ if (isset($_SESSION['autenticado']) && $_SESSION['autenticado'] === true) {
       <div class="col-md-4 d-flex flex-column align-items-center">
         <img src="./imagens/icone_index1.png" alt="Serviço 1">
         <div class="text-center">
-          <h3>Fisioterapia com os Melhores Profissionais</h3>
+          <h5>Fisioterapia com os Melhores Profissionais</h5>
           <p>Tratamentos personalizados para reabilitação, lesões esportivas, dor crônica e mais. Agende sua consulta e recupere sua saúde e qualidade de vida.</p>
         </div>
       </div>
       <div class="col-md-4 d-flex flex-column align-items-center">
         <img src="./imagens/icone_index2.png" alt="Serviço 2">
         <div class="text-center">
-          <h3>Clínica de Fisioterapia com horários flexíveis</h3>
+          <h5>Clínica de Fisioterapia com horários flexíveis</h5>
           <p>Agende sua consulta com os melhores horários e desfrute dos melhores cuidados com nossos especialistas. Sua saúde e bem-estar é sempre nossa prioridade.</p>
         </div>
       </div>
       <div class="col-md-4 d-flex flex-column align-items-center">
         <img src="./imagens/icone_index3.png" alt="Serviço 3">
         <div class="text-center">
-          <h3>Equipamentos Modernos</h3>
+          <h5>Equipamentos Modernos</h5>
           <p>Investimos em equipamentos modernos e tecnologicamente avançados, que auxiliam no diagnóstico preciso e no tratamento eficiente dos nossos pacientes. Isso nos permite oferecer terapias inovadoras e resultados mais rápidos e efetivos.</p>
         </div>
       </div>

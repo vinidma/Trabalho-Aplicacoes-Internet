@@ -1,5 +1,5 @@
 <footer
-          class="text-center text-lg-start text-white"
+           class="mt-auto text-center text-lg-start text-white"
           style="background-color: #3C6255">
     <div class="container p-4 pb-0">
       <section class="">
